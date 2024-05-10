@@ -7,6 +7,12 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "^0.73.4"
+  },
+  "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "^0.73.4",
+    "@types/react": "^18.2.6",
+    "typescript": "^5.4.5"
   }
 }
