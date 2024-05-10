@@ -5,7 +5,7 @@
   "repository": "git@github.com:anuragarwalkar/rn-design-system.git",
   "author": "Anurag Arwalkar <anurag.arwalkar@globant.com>",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "react": "18.2.0",
     "react-native": "^0.73.4"
   }
